@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ES8311") (type "KiCad") (uri "/home/dan/Downloads/ES8311") (options "") (descr ""))
+)

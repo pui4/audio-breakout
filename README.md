@@ -17,7 +17,7 @@ It is a breakout board for the Everest Semiconductors ES8311 Audio codec IC. It 
 
 ### Schematic
 ![Schematic](./schematic.png)
-### Pcb design
+### PCB design
 ![PCB](./pcb.png)
 
 ## BOM

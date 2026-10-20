@@ -1,5 +1,6 @@
 # Audio Codec Module (WIP)
 I needed an audio codec module for an upcoming secret project and there was no other designs that fit my criteria so I made my own. It was made for hackclub (specifically stardance), if you want more info on this project; check the stardance journal for it [here.](https://stardance.hackclub.com/projects/20340)
+![Video demo](./20261019_230045.mp4)
 
 ### Front
 ![Render front](./render-front.png)
